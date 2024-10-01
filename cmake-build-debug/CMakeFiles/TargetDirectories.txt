@@ -1,0 +1,3 @@
+/home/gpinto03/FEUP/2º Ano/2º Semestre/Desenho de Algoritmos/DA2023_PRJ1_G<G07_9>/DA_PROJECT1/cmake-build-debug/CMakeFiles/PROJ1.dir
+/home/gpinto03/FEUP/2º Ano/2º Semestre/Desenho de Algoritmos/DA2023_PRJ1_G<G07_9>/DA_PROJECT1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gpinto03/FEUP/2º Ano/2º Semestre/Desenho de Algoritmos/DA2023_PRJ1_G<G07_9>/DA_PROJECT1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
